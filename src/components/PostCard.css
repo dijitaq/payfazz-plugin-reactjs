@@ -1,0 +1,16 @@
+.post-card {
+  text-decoration: none;
+  display: block;
+  padding: 0.5rem;
+}
+
+.post-card .mask {
+  overflow: hidden;
+  display: block;
+  border-radius: 1rem;
+}
+
+.post-card p {
+  color: #010101;
+  margin-bottom: 0;
+}

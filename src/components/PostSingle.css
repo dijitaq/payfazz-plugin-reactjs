@@ -1,0 +1,10 @@
+.container-image, .container-text {
+  overflow: hidden;
+  display: block;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.container-image {
+  border-radius: 1.75rem;
+}
